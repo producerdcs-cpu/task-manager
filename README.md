@@ -1,7 +1,7 @@
 # 📋 TaskManager — Full Stack Gerenciador de Tarefas
 
 <p align="center">
-  <img src="assets/logo.svg" alt="TaskManager" width="100%"/>
+  <img src="https://raw.githubusercontent.com/producerdcs-cpu/task-manager/main/assets/logo.svg" alt="TaskManager" width="100%"/>
 </p>
 
 **Producer DCS®** | v1.0.0
